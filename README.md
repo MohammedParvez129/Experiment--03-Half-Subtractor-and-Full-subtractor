@@ -1,4 +1,4 @@
-![Exp4 hs RTL diagram](https://github.com/MohammedParvez129/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/143175737/39a55573-8dce-428b-ae06-994bd41980c9)# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
